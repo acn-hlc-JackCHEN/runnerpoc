@@ -8,3 +8,23 @@ jobs:
     runs-on: arc-runner-set
     steps:
     - run: echo "🎉 This job uses runner scale set runners!"
+  Explore-GitHub-Actions1:
+    # You need to use the INSTALLATION_NAME from the previous step
+    runs-on: arc-runner-set
+    steps:
+    - run: sleep 300
+  Explore-GitHub-Actions2:
+    # You need to use the INSTALLATION_NAME from the previous step
+    runs-on: arc-runner-set
+    steps:
+    - run: sleep 300
+  Explore-GitHub-Actions3:
+    # You need to use the INSTALLATION_NAME from the previous step
+    runs-on: arc-runner-set
+    steps:
+    - run: sleep 300
+  Explore-GitHub-Actions4:
+    # You need to use the INSTALLATION_NAME from the previous step
+    runs-on: arc-runner-set
+    steps:
+    - run: sleep 300
